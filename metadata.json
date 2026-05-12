@@ -1,0 +1,6 @@
+{
+  "name": "Lapsmart",
+  "description": "Sistem pendukung keputusan pemilihan laptop menggunakan metode Simple Additive Weighting (SAW) dengan kriteria adaptif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
